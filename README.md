@@ -2,6 +2,7 @@
  avl-tree implementation
 
 Example
+```bash
 >python AVLtree.py
 insert 1
 insert 10
@@ -13,3 +14,4 @@ prev 1
 -1
 next 1
 10
+```
